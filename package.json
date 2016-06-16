@@ -6,6 +6,10 @@
   "bin": {
     "maradona": "index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juancoen/maradona-cli"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
