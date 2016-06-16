@@ -1,0 +1,17 @@
+{
+  "name": "maradona-cli",
+  "version": "0.0.1",
+  "description": "Command line interface for maradona",
+  "main": "index.js",
+  "bin": {
+    "maradona": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "maradona": "^0.2.0"
+  }
+}
