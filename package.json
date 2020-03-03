@@ -16,6 +16,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "maradona": "^0.2.0"
+    "maradona": "^0.4.0"
   }
 }
